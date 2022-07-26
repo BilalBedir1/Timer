@@ -1,0 +1,11 @@
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\bin\Debug\Timer.exe.config
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\bin\Debug\Timer.exe
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\bin\Debug\Timer.pdb
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\obj\Debug\Timer.csproj.SuggestedBindingRedirects.cache
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\obj\Debug\Timer.exe
+D:\Bilal\Documents\Kurslar\C#\Timer\Timer\obj\Debug\Timer.pdb
